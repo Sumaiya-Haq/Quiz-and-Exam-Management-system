@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Project-Own\\Quiz-management-system\\Quiz-and-Exam-Management-system\\",
+  "WorkspaceRootPath": "E:\\Project-Own\\Quiz-and-Exam-Management-system\\Quiz-and-Exam-Management-system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project-Own\\Quiz-management-system\\Quiz-and-Exam-Management-system\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5B586C7-B83C-6441-DE1E-A40518D272E7}|Quiz-and-Exam-Management-system.csproj|e:\\project-own\\quiz-and-exam-management-system\\quiz-and-exam-management-system\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5B586C7-B83C-6441-DE1E-A40518D272E7}|Quiz-and-Exam-Management-system.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project-Own\\Quiz-management-system\\Quiz-and-Exam-Management-system\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5B586C7-B83C-6441-DE1E-A40518D272E7}|Quiz-and-Exam-Management-system.csproj|e:\\project-own\\quiz-and-exam-management-system\\quiz-and-exam-management-system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5B586C7-B83C-6441-DE1E-A40518D272E7}|Quiz-and-Exam-Management-system.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "E:\\Project-Own\\Quiz-management-system\\Quiz-and-Exam-Management-system\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "E:\\Project-Own\\Quiz-and-Exam-Management-system\\Quiz-and-Exam-Management-system\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "E:\\Project-Own\\Quiz-management-system\\Quiz-and-Exam-Management-system\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Project-Own\\Quiz-and-Exam-Management-system\\Quiz-and-Exam-Management-system\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-20T05:11:13.706Z",
               "EditorCaption": ""
@@ -41,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Project-Own\\Quiz-management-system\\Quiz-and-Exam-Management-system\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\Project-Own\\Quiz-and-Exam-Management-system\\Quiz-and-Exam-Management-system\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\Project-Own\\Quiz-management-system\\Quiz-and-Exam-Management-system\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Project-Own\\Quiz-and-Exam-Management-system\\Quiz-and-Exam-Management-system\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-20T05:05:22.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T05:05:22.802Z"
             }
           ]
         }
